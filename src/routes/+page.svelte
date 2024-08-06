@@ -137,7 +137,11 @@
 				/>
 			</svg> Github
 		</Button>
-		<Button target="_blank" href="whatsapp://send?abid=+639055557351" class="gap-3">
+		<Button
+			target="_blank"
+			href="https://wa.me/639055557351?text=Hello%2C+I+would+like+to+know+more+about+your+services"
+			class="gap-3"
+		>
 			<svg
 				xmlns="http://www.w3.org/2000/svg"
 				width="16"
