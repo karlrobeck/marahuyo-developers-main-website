@@ -123,7 +123,7 @@
 	<p class="lead">Contact us for more information.</p>
 	<span class="muted">Email: marahuyodevelopers@gmail.com</span>
 	<div>
-		<Button class="gap-3">
+		<Button target="_blank" href="https://github.com/karlrobeck" class="gap-3">
 			<svg
 				xmlns="http://www.w3.org/2000/svg"
 				width="16"
@@ -137,7 +137,7 @@
 				/>
 			</svg> Github
 		</Button>
-		<Button class="gap-3">
+		<Button target="_blank" href="whatsapp://send?abid=+639055557351" class="gap-3">
 			<svg
 				xmlns="http://www.w3.org/2000/svg"
 				width="16"
@@ -151,7 +151,11 @@
 				/>
 			</svg> Whatsapp
 		</Button>
-		<Button class="gap-3">
+		<Button
+			target="_blank"
+			href="https://www.facebook.com/profile.php?id=61563585279659"
+			class="gap-3"
+		>
 			<svg
 				xmlns="http://www.w3.org/2000/svg"
 				width="16"

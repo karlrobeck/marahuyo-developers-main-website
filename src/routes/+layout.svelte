@@ -16,13 +16,13 @@
 		<nav class="flex flex-row items-center gap-5">
 			<ul class="flex flex-row items-center gap-5">
 				<li>
-					<Button variant="link">Home</Button>
+					<Button variant="link" href="/">Home</Button>
 				</li>
 				<li>
-					<Button variant="link">Solutions</Button>
+					<Button variant="link" href="/solutions">Solutions</Button>
 				</li>
 				<li>
-					<Button variant="link">About</Button>
+					<Button variant="link" href="/about">About</Button>
 				</li>
 			</ul>
 		</nav>
@@ -42,10 +42,12 @@
 		<span class="small">© 2024 Mayahuyo Developer Team</span>
 		<ul>
 			<li>
-				<Button variant="link" class="w-fit">Privacy Policy</Button>
+				<Button variant="link" class="w-fit" href="/about/privacy">Privacy Policy</Button>
 			</li>
 			<li>
-				<Button variant="link" class="w-fit">Terms of services</Button>
+				<Button variant="link" class="w-fit" href="/about/terms-and-conditions"
+					>Terms of services</Button
+				>
 			</li>
 		</ul>
 	</footer>
